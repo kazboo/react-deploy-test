@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app-mainconcepts12/static/css/main.2cce8147.chunk.css",
+    "main.js": "/my-app-mainconcepts12/static/js/main.76ac64d1.chunk.js",
+    "main.js.map": "/my-app-mainconcepts12/static/js/main.76ac64d1.chunk.js.map",
+    "runtime~main.js": "/my-app-mainconcepts12/static/js/runtime~main.cbd55934.js",
+    "runtime~main.js.map": "/my-app-mainconcepts12/static/js/runtime~main.cbd55934.js.map",
+    "static/js/2.b41502e9.chunk.js": "/my-app-mainconcepts12/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/my-app-mainconcepts12/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/my-app-mainconcepts12/index.html",
+    "precache-manifest.fb2c7f43d27cb500ce7594a29f2ef116.js": "/my-app-mainconcepts12/precache-manifest.fb2c7f43d27cb500ce7594a29f2ef116.js",
+    "service-worker.js": "/my-app-mainconcepts12/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/my-app-mainconcepts12/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/my-app-mainconcepts12/static/media/logo.5d5d9eef.svg"
+  }
+}
